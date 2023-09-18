@@ -20,7 +20,12 @@
 </div>
 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frios%2FLAVIS.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frios%2FLAVIS?ref=badge_large)
+
 # LAVIS - A Library for Language-Vision Intelligence
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frios%2FLAVIS.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frios%2FLAVIS?ref=badge_shield)
+
 
 ## Table of Contents
   - [Introduction](#introduction)
